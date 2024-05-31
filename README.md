@@ -1,4 +1,4 @@
-This is a repository for a web bank app, simulating a typical Nigeria banking system, that lets you do the following;
+This is a repository for a bank app, simulating a typical Nigeria banking system, that lets you do the following;
 Cash deposits,
 Cash withdrawals,
 Cash transfers,
